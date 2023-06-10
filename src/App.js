@@ -1,8 +1,7 @@
 import './App.css';
 import ProfilePage from "./ProfilePage";
 import RegistrationPage from "./Registration";
-import {BrowserRouter, Route, Router, Routes} from "react-router-dom";
-import {Switch} from "@material-ui/core";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
 
 function App() {
     return (
